@@ -8,7 +8,7 @@ var Directions = L.Class.extend({
     includes: [L.Mixin.Events],
 
     options: {
-        units: 'imperial'
+        units: 'metric'
     },
 
     statics: {
